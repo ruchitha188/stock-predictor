@@ -1,12 +1,16 @@
-# AI Stock Market Predictor
+# 🤖 AI Stock Predictor - Random Forest ML Model
 
-Educational web app that predicts stock profit/loss using AI (Simple Moving Average).
+[![Streamlit App](https://img.shields.io/badge/Streamlit-LIVE-brightgreen)](https://your-app-link.streamlit.app)
 
-## Features
-- ✅ Live NSE stock prices
-- ✅ AI Buy/Sell/Hold signals  
-- ✅ Interactive charts
-- ✅ Student-friendly interface
+## 🎯 **Problem Statement**
+- Stock prices fluctuate unpredictably
+- Manual analysis is complex & time-consuming
+- Need **automated prediction system**
 
-## Try these stocks:
-RELIANCE.NS | TCS.NS | INFY.NS | SUZLON.NS
+## ✅ **Objectives Achieved**
+- ✅ **Predicts Up/Down trends** (Binary Classification)
+- ✅ **Random Forest ML Model** (100 Decision Trees)
+- ✅ **Live NSE data** from Yahoo Finance
+- ✅ **Web Application** deployment
+
+## 🛠️ **Technologies**
